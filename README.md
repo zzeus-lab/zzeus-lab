@@ -8,8 +8,7 @@ Full stack developer, 9 years of experience. With focus in ReactJS, ReactNative,
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [eliseuwpcampos@gmail.com](mailto:eliseuwpcampos@gmail.com)
-* 🚀  I'm currently working on [X-Apps](http://x-apps.com.br/)
-* 🧠  I'm learning Remix and IA
+* 🧠  I'm learning Game development
 
 ### Skills
 
