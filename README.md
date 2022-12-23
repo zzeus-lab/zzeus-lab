@@ -2,7 +2,7 @@
 
 ### JavaScript Engineer
 
-Full stack developer, by eight years. With focus in Mobile apps development and API's. Innovation lover 🤟
+Full stack developer, by nine years. With focus in Mobile apps development and API's.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [eliseuwpcampos@gmail.com](mailto:eliseuwpcampos@gmail.com)
