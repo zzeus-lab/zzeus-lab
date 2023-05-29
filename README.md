@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eliseu Campos</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeucampos&label=Profile%20views&color=0e75b6&style=flat" alt="zeucampos" /> </p>
-
 - 🔭 I’m currently working on [development of mobile App for Disk Cirurgia company](https://www.diskcirurgia.com.br/)
 
 - 🌱 I’m currently learning **Spring**
